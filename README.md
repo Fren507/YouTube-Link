@@ -1,3 +1,3 @@
 # YouTube-Link
 
-[YouTube](https://youtube.com)
+[YouTube](https://google.com)
